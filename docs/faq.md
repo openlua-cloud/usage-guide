@@ -68,17 +68,24 @@ Go to `C:\Program Files (x86)\Steam\appcache` and delete the `appinfo.vdf` file.
 </details>
 
 <details>
-<summary>Why are the games I add with SteamTools not appearing in my library?</summary>
+<summary>Why are the games I add with SteamTools not appearing in my library/saying `PURCHASE`?</summary>
 
 This is a common issue and there are two possible solutions for it.
-
 
 ## Solution 1
 Use a VPN (if you don't have one, use [UrbanVPN](https://www.urban-vpn.com/))
 
 ## Solution 2
+1. Open Steam settings
+2. Navigate to the Downloads tab
+3. Click on **Clear Cache** next to Clear Download Cache
+4. Restart Steam through SteamTools
 
-It may also happen if Steam decides to switch you to the Beta version of the client (this is really rare though). Run this command in your terminal to switch back to the Stable version of Steam:
+![](images/clearsteamdownloadcache.png)
+
+## Solution 3
+
+It may also happen if Steam decides to switch you to the Beta version of the client (this is really rare though). Run this command in Powershell to switch back to the Stable version of Steam:
 
 ```powershell
 Start-Process -FilePath (Join-Path ((Get-ItemProperty "HKLM:\SOFTWARE\WOW6432Node\Valve\Steam").InstallPath) "Steam.exe") -ArgumentList "-clearbeta"
