@@ -112,3 +112,10 @@ One of the following is present in the game:
 
 BUT some games might have a bypass made for them. [More info](/bypasses)
 </details>
+
+<details>
+<summary>Can I support the project financially?</summary>
+
+Yes, you can do it through [our Ko-Fi page](https://ko-fi.com/sobakintech).
+
+</details>
