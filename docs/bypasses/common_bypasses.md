@@ -18,19 +18,19 @@ Find your game below and download the corresponding bypass files.
 |-------|------------|
 | 🎯 | Launch the game directly via it's .exe file, not through your Steam Library |
 | 🌐 | The bypass/fix also contains an Online-Fix |
-| 👍 | This bypass/fix has been tested and confirmed to be working by a staff/server member |
+| 👍 | This bypass/fix has been confirmed to be working by a member of our team |
 
 <details>
 <summary>Rockstar Games</summary>
-:::note
-For GTA V Legacy, launch the game from "PlayGTAV.bat", not from the .exe or Steam.
+:::important
+For GTA V Legacy, launch the game from `PlayGTAV.bat`, not from the .exe or Steam.
 :::
 
 | Name | Download |
 |------|----------|
 | [Grand Theft Auto V Enhanced](https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1762105435461-KdqJ3kVs8he3.zip) |
-| [Grand Theft Auto V Legacy](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V_Legacy/) | [Download](https://files.catbox.moe/x8l3hx.zip) |
-| 🎯 [Grand Theft Auto IV: The Complete Edition](https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/) | [Download](https://files.catbox.moe/42ujvo.zip) |
+| [Grand Theft Auto V Legacy](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V_Legacy/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1763930941084-gzmjzLYLjHpJ.zip) |
+| 🎯 [Grand Theft Auto IV: The Complete Edition](https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1763931564703-4X7g7nZ7LmQM.zip) |
 | [Grand Theft Auto III – The Definitive Edition](https://store.steampowered.com/app/1546970/Grand_Theft_Auto_III__The_Definitive_Edition/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1761923483387-g7CA4fvitcFu.zip) |
 | [Grand Theft Auto: Vice City – The Definitive Edition](https://store.steampowered.com/app/1546990/Grand_Theft_Auto_Vice_City__The_Definitive_Edition/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1761923740571-PW42pSC56NeC.zip) |
 | [Grand Theft Auto: San Andreas – The Definitive Edition](https://store.steampowered.com/app/1547000/Grand_Theft_Auto_San_Andreas__The_Definitive_Edition/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1761923936059-DzQWGD0uhn06.zip) |
@@ -43,9 +43,9 @@ For GTA V Legacy, launch the game from "PlayGTAV.bat", not from the .exe or Stea
 
 | Name | Download |
 |------|----------|
-| 👍 🎯 [Need For Speed™ Most Wanted](https://store.steampowered.com/app/1262560/Need_for_Speed_Most_Wanted/) | [Download](https://files.catbox.moe/z4q6wo.7z) |
-| 👍 🎯 [Need For Speed™ Rivals](https://store.steampowered.com/app/1262600/Need_for_Speed_Rivals/) | [Download](https://files.catbox.moe/p209rl.7z) |
-| 👍 🎯 [Need For Speed™ Heat](https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/) | [Download](https://files.catbox.moe/wq6jvd.rar) |
+| 👍 🎯 [Need For Speed™ Most Wanted](https://store.steampowered.com/app/1262560/Need_for_Speed_Most_Wanted/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1763931089022-LQPmPdCqLSeS.zip) |
+| 👍 🎯 [Need For Speed™ Rivals](https://store.steampowered.com/app/1262600/Need_for_Speed_Rivals/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1763931161202-Vxzm1wSY0tmt.zip) |
+| 👍 🎯 [Need For Speed™ Heat](https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1763931437930-Jkdx50tpCn9P.zip) |
 
 </details>
 
@@ -92,11 +92,11 @@ To bypass the download & speed limit for pixeldrain, use [this tool](https://pix
 
 | Name | Download |
 |------|----------|
-| [Far Cry® 5](https://store.steampowered.com/app/552520/Far_Cry_5/) | [Download](https://files.catbox.moe/n3cqhn.zip) |
-| [Far Cry® New Dawn](https://store.steampowered.com/app/939960/Far_Cry_New_Dawn/) | [Download](https://files.catbox.moe/5snk8o.rar) (You'll need to use WinRAR for this one) |
-| [Far Cry® Primal](https://store.steampowered.com/app/371660/Far_Cry_Primal/) | [Download](https://files.catbox.moe/and5sc.zip) |
-| [Far Cry® 4](https://store.steampowered.com/app/298110/Far_Cry_4/) | [Download](https://files.catbox.moe/ci75kz.zip) |
-| [Far Cry 3](https://store.steampowered.com/app/220240/Far_Cry_3/) | [Download](https://files.catbox.moe/hm8pwz.zip) |
+| [Far Cry® 5](https://store.steampowered.com/app/552520/Far_Cry_5/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1763932617626-4opqPpoS8mKW.zip) |
+| [Far Cry® New Dawn](https://store.steampowered.com/app/939960/Far_Cry_New_Dawn/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1763932543055-lRPocIWRq9qX.zip) |
+| [Far Cry® Primal](https://store.steampowered.com/app/371660/Far_Cry_Primal/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1763932089416-F6Gk8HTt9Q53.zip) |
+| [Far Cry® 4](https://store.steampowered.com/app/298110/Far_Cry_4/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1763932029213-K1H1lhdDmqOJ.zip) |
+| [Far Cry 3](https://store.steampowered.com/app/220240/Far_Cry_3/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1763931845891-3HdAQ8nXLu4l.zip) |
 
 </details>
 
@@ -107,7 +107,7 @@ To bypass the download & speed limit for pixeldrain, use [this tool](https://pix
 |------|----------|
 | [STAR WARS Jedi: Fallen Order™](https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/) | [Download](https://pixeldrain.com/u/NnnHpdju) |
 | [STAR WARS Jedi: Survivor™](https://store.steampowered.com/app/1774580/STAR_WARS_Jedi_Survivor/) | [Download](https://pixeldrain.com/u/X6JPATK3) |
-| 🎯 [STAR WARS™ Battlefront (2015)](https://store.steampowered.com/app/1237980/STAR_WARS_Battlefront/) | [Download](https://files.catbox.moe/yrd4r5.zip) |
+| 🎯 [STAR WARS™ Battlefront (2015)](https://store.steampowered.com/app/1237980/STAR_WARS_Battlefront/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1763931909117-96yfAhM5kssJ.zip) |
 </details>
 
 <details>
