@@ -18,17 +18,34 @@ Find your game below and download the corresponding bypass files.
 |-------|------------|
 | 🎯 | Launch the game directly via it's .exe file, not through your Steam Library |
 | 🌐 | The bypass/fix also contains an Online-Fix |
+| 👍 | This bypass/fix has been tested and confirmed to be working by a staff/server member |
 
 <details>
 <summary>Rockstar Games</summary>
+:::note
+For GTA V Legacy, launch the game from "PlayGTAV.bat", not from the .exe or Steam.
+:::
 
 | Name | Download |
 |------|----------|
 | [Grand Theft Auto V Enhanced](https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1762105435461-KdqJ3kVs8he3.zip) |
+| [Grand Theft Auto V Legacy](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V_Legacy/) | [Download](https://files.catbox.moe/x8l3hx.zip) |
+| 🎯 [Grand Theft Auto IV: The Complete Edition](https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/) | [Download](https://files.catbox.moe/42ujvo.zip) |
 | [Grand Theft Auto III – The Definitive Edition](https://store.steampowered.com/app/1546970/Grand_Theft_Auto_III__The_Definitive_Edition/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1761923483387-g7CA4fvitcFu.zip) |
 | [Grand Theft Auto: Vice City – The Definitive Edition](https://store.steampowered.com/app/1546990/Grand_Theft_Auto_Vice_City__The_Definitive_Edition/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1761923740571-PW42pSC56NeC.zip) |
 | [Grand Theft Auto: San Andreas – The Definitive Edition](https://store.steampowered.com/app/1547000/Grand_Theft_Auto_San_Andreas__The_Definitive_Edition/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1761923936059-DzQWGD0uhn06.zip) |
 | [Red Dead Redemption 2](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1762105617608-APY2EQfwPgi7.zip) |
+
+<details>
+
+<details>
+<summary>Need For Speed™</summary>
+
+| Name | Download |
+|------|----------|
+| 👍 🎯 [Need For Speed™ Most Wanted](https://store.steampowered.com/app/1262560/Need_for_Speed_Most_Wanted/) | [Download](https://files.catbox.moe/z4q6wo.7z) |
+| 👍 🎯 [Need For Speed™ Rivals](https://store.steampowered.com/app/1262600/Need_for_Speed_Rivals/) | [Download](https://files.catbox.moe/p209rl.7z) |
+| 👍 🎯 [Need For Speed™ Heat](https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/) | [Download](https://files.catbox.moe/wq6jvd.rar) |
 
 </details>
 
@@ -48,7 +65,7 @@ This will only work for campaign. For online, refer to [this page](/bypasses/cal
 </details>
 
 <details>
-<summary>Assassin's Creed</summary>
+<summary>Assassin's Creed®</summary>
 
 :::tip
 To bypass the download & speed limit for pixeldrain, use [this tool](https://pixeldrain-bypass.cybar.xyz/)
@@ -75,7 +92,6 @@ To bypass the download & speed limit for pixeldrain, use [this tool](https://pix
 
 | Name | Download |
 |------|----------|
-| [~~Far Cry® 6~~](https://store.steampowered.com/app/2369390/Far_Cry_6/) (an update broke the fix, you can download it from SteamRIP for now) | [Download](https://steamrip.com/far-cry-6-ultimate-edition-free-download-z1/) |
 | [Far Cry® 5](https://store.steampowered.com/app/552520/Far_Cry_5/) | [Download](https://files.catbox.moe/n3cqhn.zip) |
 | [Far Cry® New Dawn](https://store.steampowered.com/app/939960/Far_Cry_New_Dawn/) | [Download](https://files.catbox.moe/5snk8o.rar) (You'll need to use WinRAR for this one) |
 | [Far Cry® Primal](https://store.steampowered.com/app/371660/Far_Cry_Primal/) | [Download](https://files.catbox.moe/and5sc.zip) |
@@ -91,15 +107,7 @@ To bypass the download & speed limit for pixeldrain, use [this tool](https://pix
 |------|----------|
 | [STAR WARS Jedi: Fallen Order™](https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/) | [Download](https://pixeldrain.com/u/NnnHpdju) |
 | [STAR WARS Jedi: Survivor™](https://store.steampowered.com/app/1774580/STAR_WARS_Jedi_Survivor/) | [Download](https://pixeldrain.com/u/X6JPATK3) |
-</details>
-
-<details>
-<summary>EA Games</summary>
-
-| Name | Download |
-|------|----------|
-| [Plants vs. Zombies™: Replanted](https://store.steampowered.com/app/3654560/Plants_vs_Zombies_Replanted/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1761661468376-VnULezKIznCO.zip) |
-
+| 🎯 [STAR WARS™ Battlefront (2015)](https://store.steampowered.com/app/1237980/STAR_WARS_Battlefront/) | [Download](https://files.catbox.moe/yrd4r5.zip) |
 </details>
 
 <details>
@@ -136,6 +144,7 @@ To bypass the download & speed limit for pixeldrain, use [this tool](https://pix
 
 | Name | Download |
 |------|----------|
+| 👍 [Plants vs. Zombies™: Replanted](https://store.steampowered.com/app/3654560/Plants_vs_Zombies_Replanted/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1761661468376-VnULezKIznCO.zip) |
 | [Sleeping Dogs](https://store.steampowered.com/app/202170/Sleeping_Dogs/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1762102213994-A1PZDfYrp7DG.zip) |
 | [Steep™](https://store.steampowered.com/app/460920/Steep/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1762102533134-bHgT3uVu64Wd.zip) |
 | [F1 RACE STARS™](https://store.steampowered.com/app/203680/F1_RACE_STARS/?curator_clanid=4777282) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1762104133759-AmC0Wb0NRv7g.zip) |
