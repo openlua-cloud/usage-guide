@@ -35,7 +35,6 @@ For GTA V Legacy, launch the game from "PlayGTAV.bat", not from the .exe or Stea
 | [Grand Theft Auto: Vice City – The Definitive Edition](https://store.steampowered.com/app/1546990/Grand_Theft_Auto_Vice_City__The_Definitive_Edition/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1761923740571-PW42pSC56NeC.zip) |
 | [Grand Theft Auto: San Andreas – The Definitive Edition](https://store.steampowered.com/app/1547000/Grand_Theft_Auto_San_Andreas__The_Definitive_Edition/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1761923936059-DzQWGD0uhn06.zip) |
 | [Red Dead Redemption 2](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1762105617608-APY2EQfwPgi7.zip) |
-
 <details>
 
 <details>
