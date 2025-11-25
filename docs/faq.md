@@ -30,9 +30,13 @@ Yes, but it's pretty buggy - doesn't always work and is known to lose saves.
 </details>
 
 <details>
-<summary>Can I play multiplayer games?</summary>
+<summary>Can I play multiplayer games? Will I be able to play with people who bought the game legitimately?</summary>
 
+> Can I play multiplayer games?
 Yes, but it requires some extra steps. You'll be guided through them after you download a game from the website that has multiplayer.
+
+> Will I be able to play with people who bought the game legitimately?
+Yes, but they have to install the Online-Fix too.
 
 </details>
 
