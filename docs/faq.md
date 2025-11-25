@@ -32,7 +32,7 @@ Yes, but it's pretty buggy - doesn't always work and is known to lose saves.
 <details>
 <summary>Can I play multiplayer games?</summary>
 
-Yes, but you need to install an Online-Fix. [More info](/beginners_guide/playing_multiplayer_games)
+Yes, but it requires some extra steps. You'll be guided through them after you download a game from the website that has multiplayer.
 
 </details>
 
