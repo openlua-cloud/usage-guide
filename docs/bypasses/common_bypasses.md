@@ -155,6 +155,7 @@ To bypass the download & speed limit for pixeldrain, use [this tool](https://pix
 | [South Park™: The Stick of Truth™](https://store.steampowered.com/app/213670/South_Park_The_Stick_of_Truth/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1762105107231-SwfWgzIZ4qhR.zip) |
 | [Fallout 4](https://store.steampowered.com/app/377160/Fallout_4/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1762105266086-pg5apEnhElI6.zip) |
 | 🌐 [Ghost of Tsushima DIRECTOR'S CUT](https://store.steampowered.com/app/2215430/Ghost_of_Tsushima_DIRECTORS_CUT/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1762106048202-dUi9gWaypBvv.zip) |
+| [Battlefield™ 6](https://store.steampowered.com/app/2807960/Battlefield_6/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1764101549002-BhEyeSdNoJlO.zip) |
 
 </details>
 
