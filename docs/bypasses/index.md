@@ -3,20 +3,13 @@ pagination_prev: null
 pagination_next: null
 ---
 
-# Bypasses/Fixes
-Some games have their own DRM (anti-piracy protection), but luckily we have bypasses for those!
+# Bypasses
 
-:::danger
-We got all of these bypasses from third party sources, we did not make them! Use them cautiously - do not disable your antivirus if it detects something!
-:::
+Many games feature their own DRM (anti-piracy) protections. Here, we offer bypasses to help you get around these restrictions!
 
-:::note
-We haven't tested if these work, and we won't be able to help you with them.
-:::
+Most common bypasses are available directly from [the main website](https://manifestor.cc). When you download a game that requires a bypass, you’ll be prompted to download and install the bypass files automatically.
 
-If a game's bypass/fix uses the standard installation process (just extracting files into the game directory), you'll find it listed under [Common bypasses/fixes](/bypasses/common_bypasses).
-
-Games that require a unique or specialized installation method have their own dedicated pages (which you'll find below).
+For bypasses that need special installation steps, dedicated guides are provided below.
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
