@@ -66,6 +66,17 @@ This is completely normal, it's supposed to be like that. Just import that singl
 </details>
 
 <details>
+<summary>How do I download DLCs?</summary>
+
+**If you own the game on your Steam account:**  
+Just re-download the base game from the website and import it into SteamTools.
+
+**If you got the game through SteamTools (not purchased):**  
+Sadly, you can't do anything, but just wait until it gets added.
+
+</details>
+
+<details>
 <summary>What does `DRM/Restrictions detected` mean?</summary>
 
 One of the following is present in the game:
