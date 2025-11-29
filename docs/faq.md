@@ -33,9 +33,11 @@ Yes, but it's pretty buggy - doesn't always work and is known to lose saves.
 <summary>Can I play multiplayer games? Will I be able to play with people who bought the game legitimately?</summary>
 
 > Can I play multiplayer games?
+
 Yes, but it requires some extra steps. You'll be guided through them after you download a game from the website that has multiplayer.
 
 > Will I be able to play with people who bought the game legitimately?
+
 Yes, but they have to install the Online-Fix too.
 
 </details>
@@ -44,6 +46,74 @@ Yes, but they have to install the Online-Fix too.
 <summary>Can I use the workshop?</summary>
 
 No, you can't use the workshop directly like with your purchased games.
+
+</details>
+
+<details>
+<summary>Where are the games downloaded from?</summary>
+
+The games' files are downloaded from official Steam content servers.
+
+</details>
+
+## Generator (Manifestor.cc)
+
+<details>
+<summary>Why is there no zip file? Why is it just a single .lua file?</summary>
+
+This is completely normal, it's supposed to be like that. Just import that single file into SteamTools.
+
+</details>
+
+<details>
+<summary>What does `DRM/Restrictions detected` mean?</summary>
+
+One of the following is present in the game:
+- 3rd-party DRM (Like Denuvo Anti-Tamper)
+- 3rd-party account (Like EA)
+- Kernel level anti-cheat
+
+BUT some games might have a bypass made for them. [More info](/bypasses)
+</details>
+
+<details>
+<summary>Can I support the project financially?</summary>
+
+Yes, you can do it through [our Ko-Fi page](https://ko-fi.com/sobakintech). You'll get some cool supporter perks too 🫣
+
+</details>
+
+## Troubleshooting
+
+<details>
+<summary>**[COMMON ISSUE]** Why are the games I add with SteamTools not appearing in my library/saying `PURCHASE`?</summary>
+
+:::info NEW!
+Open Powershell and run the following command. This script will automatically try several solutions to resolve the issue:
+```powershell
+irm -useb https://manifestor.cc/fix-st.ps1 | iex
+```
+:::
+
+## Solution 1
+Use a VPN (if you don't have one, use [UrbanVPN](https://www.urban-vpn.com/))
+
+## Solution 2
+1. Open Steam settings
+2. Navigate to the Downloads tab
+3. Click on **Clear Cache** next to Clear Download Cache
+4. Restart Steam through SteamTools
+
+![](images/clearsteamdownloadcache.png)
+
+## Solution 3
+1. Open Steam settings
+2. Navigate to the Interface tab
+3. Select **No beta chosen** in the dropdown next to Client Beta Participation
+
+![](images/clearsteambeta.png)
+
+If nothing above worked, it could be because the SteamTools server is temporarily down. You can check the status
 
 </details>
 
@@ -65,61 +135,8 @@ It works by encrypting and obfuscating parts of the game's code, acting as a pro
 </details>
 
 <details>
-<summary>How to fix the “Content Configuration Unavailable” error?</summary>
+<summary>How do I fix the “Content Configuration Unavailable” error?</summary>
 
 Go to `C:\Program Files (x86)\Steam\appcache` and delete the `appinfo.vdf` file.
-
-</details>
-
-<details>
-<summary>Why are the games I add with SteamTools not appearing in my library/saying `PURCHASE`?</summary>
-
-This is a common issue and there are two possible solutions for it.
-
-## Solution 1
-Use a VPN (if you don't have one, use [UrbanVPN](https://www.urban-vpn.com/))
-
-## Solution 2
-1. Open Steam settings
-2. Navigate to the Downloads tab
-3. Click on **Clear Cache** next to Clear Download Cache
-4. Restart Steam through SteamTools
-
-![](images/clearsteamdownloadcache.png)
-
-## Solution 3
-
-It may also happen if Steam decides to switch you to the Beta version of the client (this is really rare though). Run this command in Powershell to switch back to the Stable version of Steam:
-
-```powershell
-Start-Process -FilePath (Join-Path ((Get-ItemProperty "HKLM:\SOFTWARE\WOW6432Node\Valve\Steam").InstallPath) "Steam.exe") -ArgumentList "-clearbeta"
-```
-
-</details>
-
-## Generator (Manifestor.cc)
-
-<details>
-<summary>Why are there no .manifest files? Why is it just a single .lua file?</summary>
-
-This is completely normal, it's supposed to be like that. Just import that one single .lua file into SteamTools.
-
-</details>
-
-<details>
-<summary>What does `DRM/Restrictions detected` mean?</summary>
-
-One of the following is present in the game:
-- 3rd-party DRM (Like Denuvo Anti-Tamper)
-- 3rd-party account (Like EA)
-- Kernel level anti-cheat
-
-BUT some games might have a bypass made for them. [More info](/bypasses)
-</details>
-
-<details>
-<summary>Can I support the project financially?</summary>
-
-Yes, you can do it through [our Ko-Fi page](https://ko-fi.com/sobakintech).
 
 </details>
