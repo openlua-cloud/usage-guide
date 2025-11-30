@@ -5,7 +5,7 @@ description: ""
 
 # Downloading a game
 
-### 1. Download the .lua file
+### 1. Download the lua file
 
 1. Open [Manifestor.cc](https://manifestor.cc) 
 2. Search for the game you want to add to your Steam Library for free
@@ -27,7 +27,11 @@ Right click it, and select **Display Floating Window**.
 
 </details>
 
-### 3. Drag the .lua file onto the floating icon
+### 3. Drag the lua file onto the floating icon
 
 ### Congrats!
 If you've followed all of the steps correctly, you should now have the game in your Steam Library, available to download for free.
+
+:::note
+If you're having issues, check out the [Troubleshooting section the FAQ](/faq#troubleshooting)
+:::
