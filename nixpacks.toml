@@ -7,5 +7,5 @@ cmds = ["npm ci"]
 [phases.build]
 cmds = ["npm run build"]
 
-[phases.start]
-cmd = "npx serve build -s -p 3000 --host 0.0.0.0"
+[start]
+cmd = "npx serve build -s -p 3000"
