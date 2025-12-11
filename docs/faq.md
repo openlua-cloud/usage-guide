@@ -56,7 +56,7 @@ The games' files are downloaded from official Steam content servers.
 
 </details>
 
-## Generator (Manifestor.cc)
+## Generator (openlua.cloud)
 
 <details>
 <summary>Why is there no zip file? Why is it just a single .lua file?</summary>
@@ -102,7 +102,7 @@ Yes, you can do it through [our Ko-Fi page](https://ko-fi.com/sobakintech). You'
 :::info NEW!
 Open Powershell and run the following command. This script will automatically try several solutions to resolve the issue:
 ```powershell
-irm -useb https://manifestor.cc/fix-st.ps1 | iex
+irm -useb https://openlua.cloud/fix-st.ps1 | iex
 ```
 :::
 

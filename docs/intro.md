@@ -8,7 +8,7 @@ description: ""
 
 import DocCardList from '@theme/DocCardList';
 
-# Welcome to the Manifestor.cc Guide!
+# Welcome to the openlua.cloud Usage Guide!
 
 <DocCardList items={[
   {
@@ -21,7 +21,7 @@ import DocCardList from '@theme/DocCardList';
     type: 'link', 
     href: '/beginners_guide',
     label: 'Beginner\'s Guide',
-    description: 'Get started with Manifestor.cc and SteamTools'
+    description: 'Get started with openlua.cloud and SteamTools'
   },
   {
     type: 'link',

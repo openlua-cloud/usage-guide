@@ -7,7 +7,7 @@ description: ""
 
 ### 1. Download the lua file
 
-1. Open [Manifestor.cc](https://manifestor.cc) 
+1. Open [openlua.cloud](https://openlua.cloud) 
 2. Search for the game you want to add to your Steam Library for free
 3. Click Download
 

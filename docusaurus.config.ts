@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Manifestor.cc Usage Guide',
-  tagline: 'Manifestor.cc Usage Guide',
+  title: 'openlua.cloud Usage Guide',
+  tagline: 'openlua.cloud Usage Guide',
   favicon: 'img/logo.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -15,14 +15,14 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://guide.manifestor.cc',
+  url: 'https://guide.openlua.cloud',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Manifestor-cc', // Usually your GitHub org/user name.
+  organizationName: 'openlua', // Usually your GitHub org/user name.
   projectName: 'usage-guide', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -38,7 +38,7 @@ const config: Config = {
   scripts: [{
     src: 'https://analytics.sobakintech.xyz/js/script.file-downloads.hash.outbound-links.js',
     defer: true,
-    'data-domain': 'guide.manifestor.cc'
+    'data-domain': 'guide.openlua.cloud'
   }],
   headTags: [{
     tagName: 'script',
@@ -55,7 +55,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Manifestor-cc/usage-guide/tree/main/',
+            'https://github.com/openlua-cloud/usage-guide/tree/main/',
           routeBasePath: '/' // Docs-only mode
         },
         blog: false, // Disable blog for docs-only mode
@@ -75,7 +75,7 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: 'Manifestor.cc Usage Guide',
+      title: 'openlua.cloud Usage Guide',
       logo: {
         src: 'img/logo.png',
       },
@@ -86,17 +86,17 @@ const config: Config = {
           position: 'left'
         },
         {
-          href: 'https://status.manifestor.cc',
+          href: 'https://status.openlua.cloud',
           label: 'Status',
           position: 'left'
         },
         {
-          href: 'https://discord.gg/manifestorcc',
+          href: 'https://discord.gg/openlua',
           position: 'right',
           className: 'header-discord-link'
         },
         {
-          href: 'https://github.com/Manifestor-cc/usage-guide',
+          href: 'https://github.com/openlua-cloud/usage-guide',
           position: 'right',
           className: 'header-github-link'
         }
@@ -109,16 +109,16 @@ const config: Config = {
           items: [
             {
               label: 'Terms of Service',
-              href: 'https://manifestor.cc/#termsofservice',
+              href: 'https://openlua.cloud/#termsofservice',
             },
             {
               label: 'Privacy Policy',
-              href: 'https://manifestor.cc/#privacypolicy',
+              href: 'https://openlua.cloud/#privacypolicy',
             },
           ],
         }
       ],
-      copyright: `© ${new Date().getFullYear()} Manifestor.cc. All rights reserved (hypothetically)`,
+      copyright: `© ${new Date().getFullYear()} openlua.cloud. All rights reserved (hypothetically)`,
     },
     prism: {
       theme: prismThemes.github,
