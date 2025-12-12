@@ -97,7 +97,7 @@ Yes, you can do it through [our Ko-Fi page](https://ko-fi.com/sobakintech). You'
 ## Troubleshooting
 
 <details>
-<summary>**[COMMON ISSUE]** Why are the games I add with SteamTools not appearing in my library/saying `PURCHASE`?</summary>
+<summary>**[COMMON ISSUE]** Games added with SteamTools not appearing in my library/saying `PURCHASE`</summary>
 
 :::info NEW!
 Open Powershell and run the following command. This script will automatically try several solutions to resolve the issue:

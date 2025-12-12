@@ -32,6 +32,6 @@ Right click it, and select **Display Floating Window**.
 ### Congrats!
 If you've followed all of the steps correctly, you should now have the game in your Steam Library, available to download for free.
 
-:::note
-If you're having issues, check out the [Troubleshooting section the FAQ](/faq#troubleshooting)
+:::note Having issues?
+Check out the [Troubleshooting section](/faq#troubleshooting)
 :::
