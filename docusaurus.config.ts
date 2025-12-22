@@ -22,7 +22,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'openlua', // Usually your GitHub org/user name.
+  organizationName: 'openlua-cloud', // Usually your GitHub org/user name.
   projectName: 'usage-guide', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -69,6 +69,13 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     // image: '',
+    announcementBar: {
+      id: 'info_banner',
+      content: 'Manifestor.cc is in the process of rebranding to openlua.cloud. More info in our Discord server',
+      backgroundColor: '#20232a',
+      textColor: '#fff',
+      isCloseable: false,
+    },
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: true,
@@ -92,7 +99,7 @@ const config: Config = {
         },
         {
           href: 'https://discord.gg/openlua',
-          position: 'right',
+          position: 'right',  
           className: 'header-discord-link'
         },
         {
