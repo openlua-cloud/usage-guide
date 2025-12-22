@@ -99,32 +99,13 @@ Yes, you can do it through [our Ko-Fi page](https://ko-fi.com/sobakintech). You'
 <details>
 <summary>**[COMMON ISSUE]** Games added with SteamTools not appearing in my library/saying `PURCHASE`</summary>
 
-:::info NEW!
-Open Powershell and run the following command. This script will automatically try several solutions to resolve the issue:
+Update your SteamTools: [Download the installer](https://www.steamtools.net/res/st-setup-1.8.18.exe), run it, and go through all of the steps
+
+If you've used a script that downgrades your Steam version to the 32-bit version, you also need to remove the update lock. Open PowerShell as administrator and paste this:
 ```powershell
-irm -useb https://openlua.cloud/fix-st.ps1 | iex
+irm -useb https://manifestor.cc/undo-steam-downgrade.ps1 | iex
 ```
-:::
-
-## Solution 1
-Use a VPN (if you don't have one, use [UrbanVPN](https://www.urban-vpn.com/))
-
-## Solution 2
-1. Open Steam settings
-2. Navigate to the Downloads tab
-3. Click on **Clear Cache** next to Clear Download Cache
-4. Restart Steam through SteamTools
-
-![](images/clearsteamdownloadcache.png)
-
-## Solution 3
-1. Open Steam settings
-2. Navigate to the Interface tab
-3. Select **No beta chosen** in the dropdown next to Client Beta Participation
-
-![](images/clearsteambeta.png)
-
-If nothing above worked, it could be because the SteamTools server is temporarily down. You can check the status
+then press Enter and wait until the process finishes.
 
 </details>
 
