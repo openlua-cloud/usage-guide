@@ -7,7 +7,7 @@ description: ""
 # Installing SteamTools
 
 # Windows
-[Download the installer](https://www.steamtools.net/res/st-setup-1.8.18.exe), run it, and go through all of the steps
+[Download the installer](https://steamtools.net/res/st-setup-1.8.19.exe), run it, and go through all of the steps
 
 # Linux
 :::warning
@@ -23,7 +23,7 @@ The PortProton window may dissapear entirely for a minute, just give it a moment
 4. Once the "Choices" window pops up, just click CREATE SHORTCUT
 5. On the second popup, click LAUNCH. Wait until the Steam login window pops up
 6. Login with your Steam account
-7. [Download the SteamTools installer](https://www.steamtools.net/res/st-setup-1.8.18.exe)
+7. [Download the SteamTools installer](https://steamtools.net/res/st-setup-1.8.19.exe)
 8. Right-click the installer, click Open With.. and select PortProton
 9. In the popup, select LAUNCH
 10. Go through all of the installation steps (just click Next you don't have to change anything)

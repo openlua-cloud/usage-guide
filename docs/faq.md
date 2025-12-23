@@ -99,7 +99,7 @@ Yes, you can do it through [our Ko-Fi page](https://ko-fi.com/sobakintech). You'
 <details>
 <summary>**[COMMON ISSUE]** Games added with SteamTools not appearing in my library/saying `PURCHASE`</summary>
 
-Update your SteamTools: [Download the installer](https://www.steamtools.net/res/st-setup-1.8.18.exe), run it, and go through all of the steps
+Update your SteamTools: [Download the installer](https://steamtools.net/res/st-setup-1.8.19.exe), run it, and go through all of the steps
 
 If you've used a script that downgrades your Steam version to the 32-bit version, you also need to remove the update lock. Open PowerShell as administrator and paste this:
 ```powershell
