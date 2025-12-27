@@ -36,14 +36,13 @@ const config: Config = {
   },
 
   scripts: [{
-    src: 'https://analytics.sobakintech.xyz/js/script.file-downloads.hash.outbound-links.js',
-    defer: true,
-    'data-domain': 'guide.openlua.cloud'
+    src: 'https://analytics.openlua.cloud/js/pa-a04FDqLJW9AbAvXvrFV0d.js',
+    async: true
   }],
   headTags: [{
     tagName: 'script',
     attributes: {},
-    innerHTML: 'window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }'
+    innerHTML: 'window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};plausible.init()'
   }],
 
   presets: [
