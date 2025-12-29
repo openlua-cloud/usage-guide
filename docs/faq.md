@@ -43,6 +43,13 @@ Yes, but they have to install the Online-Fix too.
 </details>
 
 <details>
+<summary>What's Spacewar and why is that the game my friends get invited to once I invite them?</summary>
+
+That's completely normal. If your friend bought the game they have to install the Online-Fix too.
+
+</details>
+
+<details>
 <summary>Can I use the workshop?</summary>
 
 Yes, you can use the workshop directly like with your purchased games.
