@@ -45,7 +45,7 @@ Yes, but they have to install the Online-Fix too.
 <details>
 <summary>Can I use the workshop?</summary>
 
-No, you can't use the workshop directly like with your purchased games.
+Yes, you can use the workshop directly like with your purchased games.
 
 </details>
 
@@ -62,35 +62,6 @@ The games' files are downloaded from official Steam content servers.
 <summary>Why is there no zip file? Why is it just a single .lua file?</summary>
 
 This is completely normal, it's supposed to be like that. Just import that single file into SteamTools.
-
-</details>
-
-<details>
-<summary>How do I download DLCs?</summary>
-
-**If you own the game on your Steam account:**  
-Just re-download the base game from the website and import it into SteamTools.
-
-**If you got the game through SteamTools (not purchased):**  
-Sadly, you can't do anything, but just wait until it gets added.
-
-</details>
-
-<details>
-<summary>What does `DRM/Restrictions detected` mean?</summary>
-
-One of the following is present in the game:
-- 3rd-party DRM (Like Denuvo Anti-Tamper)
-- 3rd-party account (Like EA)
-- Kernel level anti-cheat
-
-BUT some games might have a bypass made for them. [More info](/bypasses)
-</details>
-
-<details>
-<summary>Can I support the project financially?</summary>
-
-Yes, you can do it through [our Ko-Fi page](https://ko-fi.com/sobakintech). You'll get some cool supporter perks too 🫣
 
 </details>
 

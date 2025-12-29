@@ -68,13 +68,6 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     // image: '',
-    announcementBar: {
-      id: 'info_banner',
-      content: 'Manifestor.cc is in the process of rebranding to openlua.cloud. More info in our Discord server',
-      backgroundColor: '#20232a',
-      textColor: '#fff',
-      isCloseable: false,
-    },
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: true,
