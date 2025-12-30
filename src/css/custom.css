@@ -101,3 +101,28 @@
   color: var(--ifm-navbar-link-color);
   font-weight: 400;
 }
+
+.gradient-text {
+  background: linear-gradient(
+    90deg,
+    #38bdf8,
+    #0ea5e9,
+    #22d3ee,
+    #0ea5e9,
+    #38bdf8,
+    #0ea5e9,
+    #22d3ee
+  );
+  background-size: 200% 100%;
+  animation: gradient-slide 4s linear infinite;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 600;
+}
+
+@media (min-width: 997px) {
+  .container {
+    max-width: 1500px;
+  }
+}

@@ -30,36 +30,37 @@ Yes, but it's pretty buggy - doesn't always work and is known to lose saves.
 </details>
 
 <details>
-<summary>Can I play multiplayer games? Will I be able to play with people who bought the game legitimately?</summary>
+<summary>Can I play multiplayer/online games?</summary>
 
-> Can I play multiplayer games?
+Yes, but you need to install Online-Fixes for the multiplayer games you want to play. You'll be prompted to download one once you download a multiplayer game from the website.
 
-Yes, but it requires some extra steps. You'll be guided through them after you download a game from the website that has multiplayer.
+</details>
 
-> Will I be able to play with people who bought the game legitimately?
+<details>
+<summary>Can I play online with people who bought the game?</summary>
 
-Yes, but they have to install the Online-Fix too.
+No, you can only play with others who have also installed the Online-Fix. If you want to play with friends who bought the game, they'll also need to install the Online-Fix.
 
 </details>
 
 <details>
 <summary>What's Spacewar and why is that the game my friends get invited to once I invite them?</summary>
 
-That's completely normal. If your friend bought the game they have to install the Online-Fix too.
+That's completely normal.
 
 </details>
 
 <details>
 <summary>Can I use the workshop?</summary>
 
-Yes, you can use the workshop directly like with your purchased games.
+Yes, you can use the workshop directly like with your purchased games. (For games marked with the `Workshop` badge on the website)
 
 </details>
 
 <details>
 <summary>Where are the games downloaded from?</summary>
 
-The games' files are downloaded from official Steam content servers.
+The game files are downloaded directly from official Steam content servers - the same place Steam downloads them from normally.
 
 </details>
 
@@ -72,18 +73,27 @@ This is completely normal, it's supposed to be like that. Just import that singl
 
 </details>
 
+<details>
+<summary>What does `DRM/Restrictions detected` mean?</summary>
+
+That means that the game contains extra security measures, and there's no bypass for it available.
+
+</details>
+
 ## Troubleshooting
 
 <details>
 <summary>**[COMMON ISSUE]** Games added with SteamTools not appearing in my library/saying `PURCHASE`</summary>
 
-Update your SteamTools: [Download the installer](https://steamtools.net/res/st-setup-1.8.19.exe), run it, and go through all of the steps
+Your SteamTools version is outdated. [Download the installer](https://cdn.openlua.cloud/st-setup-latest.exe), run it, and click Next -> Install -> Finish.
 
-If you've used a script that downgrades your Steam version to the 32-bit version, you also need to remove the update lock. Open PowerShell as administrator and paste this:
+:::warning YOU ONLY NEED TO DO THE FOLLOWING IF YOU'VE DOWNGRADED YOUR STEAM INSTALLATION
+Open PowerShell as administrator and paste this:
 ```powershell
 irm -useb https://manifestor.cc/undo-steam-downgrade.ps1 | iex
 ```
 then press Enter and wait until the process finishes.
+:::
 
 </details>
 

@@ -1,13 +1,16 @@
 ---
 pagination_prev: null
 pagination_next: null
+hide_table_of_contents: true
 ---
 
-# Bypasses
+# Bypasses & Fixes
 
-Many games feature their own DRM (anti-piracy) protections. Here, we offer bypasses to help you get around these restrictions!
+:::info BYPASSES ARE NOW INTEGRATED INTO THE WEBSITE
+When you download a game that requires a bypass, you'll automatically be prompted to download it. This section only contains bypasses that require special installation steps.
+:::
 
-Most common bypasses are available directly from [the main website](https://openlua.cloud). When you download a game that requires a bypass, you’ll be prompted to download and install the bypass files automatically.
+Many games include DRM (anti-piracy) protections. We provide bypasses and fixes to help you work around these restrictions!
 
 For bypasses that need special installation steps, dedicated guides are provided below.
 

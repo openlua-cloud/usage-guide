@@ -4,11 +4,13 @@ slug: /
 sidebar_label: Introduction
 pagination_next: null
 description: ""
+title: ""
+hide_table_of_contents: true
 ---
 
 import DocCardList from '@theme/DocCardList';
 
-# Welcome to the openlua.cloud Usage Guide!
+# Welcome to the <span className="gradient-text">openlua.cloud</span> Usage Guide!
 
 <DocCardList items={[
   {
@@ -26,6 +28,6 @@ import DocCardList from '@theme/DocCardList';
   {
     type: 'link',
     href: '/bypasses',
-    label: 'Bypasses/Fixes'
+    label: 'Bypasses & Fixes'
   }
 ]} />
