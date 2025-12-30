@@ -85,7 +85,7 @@ const config: Config = {
           position: 'left'
         },
         {
-          href: 'https://status.openlua.cloud',
+          href: 'https://openluastat.us',
           label: 'Status',
           position: 'left'
         },
