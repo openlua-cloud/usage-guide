@@ -40,6 +40,10 @@ description: ""
 ### Congrats!
 If you've followed all of the steps correctly, you should now be able to play ARC Raiders.
 
+:::note
+You can play on official servers.
+:::
+
 :::important
 Always launch the game using `Launcher.bat`
 :::
