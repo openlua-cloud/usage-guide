@@ -12,8 +12,6 @@ When you download a game that requires a bypass, you'll automatically be prompte
 
 Many games include DRM (anti-piracy) protections. We provide bypasses and fixes to help you work around these restrictions!
 
-For bypasses that need special installation steps, dedicated guides are provided below.
-
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
 

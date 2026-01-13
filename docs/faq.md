@@ -18,7 +18,7 @@ It's a tool developed by chinese hackers used for injecting Lua & Manifest files
 <details>
 <summary>Can my Steam account get banned?</summary>
 
-No. The games you add with SteamTools are fully client-side, and are not visible to Steam servers.
+No. Games and DLCs added with SteamTools are completely client-side, and are not visible to Steam servers.
 
 </details>
 
@@ -32,28 +32,28 @@ Yes, but it's pretty buggy - doesn't always work and is known to lose saves.
 <details>
 <summary>Can I play multiplayer/online games?</summary>
 
-Yes, but you need to install Online-Fixes for the multiplayer games you want to play. You'll be prompted to download one once you download a multiplayer game from the website.
+Yes, but you need to install online fixes for the multiplayer games you want to play. You'll be prompted to download them when you download multiplayer games from the website.
 
 </details>
 
 <details>
-<summary>Can I play online with people who bought the game?</summary>
+<summary>Can I play online with my friends who bought the game?</summary>
 
-No, you can only play with others who have also installed the Online-Fix. If you want to play with friends who bought the game, they'll also need to install the Online-Fix.
+Yes, but your friends have to install the same online fix as you did.
 
 </details>
 
 <details>
-<summary>What's Spacewar and why is that the game my friends get invited to once I invite them?</summary>
+<summary>Why are my friends getting an invite to play Spacewar?</summary>
 
 That's completely normal.
 
 </details>
 
 <details>
-<summary>Can I use the workshop?</summary>
+<summary>Does the workshop work?</summary>
 
-Yes, you can use the workshop directly like with your purchased games. (For games marked with the `Workshop` badge on the website)
+Yes, the workshop works regularly just like with your purchased games. Please note that the workshop will only work for games marked with the `Workshop` badge on the website
 
 </details>
 
@@ -69,7 +69,7 @@ The game files are downloaded directly from official Steam content servers - the
 <details>
 <summary>Why is there no zip file? Why is it just a single .lua file?</summary>
 
-This is completely normal, it's supposed to be like that. Just import that single file into SteamTools.
+That's completely normal, it's supposed to be like that. Just drag and drop that single file onto SteamTools.
 
 </details>
 
