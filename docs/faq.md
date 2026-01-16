@@ -1,6 +1,6 @@
 ---
-sidebar_position: 2
 pagination_next: null
+pagination_prev: null
 sidebar_class_name: hidden
 description: ""
 ---
@@ -8,6 +8,7 @@ description: ""
 # Frequently Asked Questions
 
 ## General
+
 <details>
 <summary>What's SteamTools?</summary>
 
@@ -64,6 +65,15 @@ The game files are downloaded directly from official Steam content servers - the
 
 </details>
 
+<details>
+<summary>How do I open a Steam game's folder?</summary>
+
+Right-click the game in your Steam Library, then click Manage -> Browse local files
+
+![](./bypasses/images/9ecd2f2f-6322-49bc-8541-fdf35eb91566.png)
+
+</details>
+
 ## Generator (openlua.cloud)
 
 <details>
@@ -83,11 +93,11 @@ That means that the game contains extra security measures, and there's no bypass
 ## Troubleshooting
 
 <details>
-<summary>**[COMMON ISSUE]** Games added with SteamTools not appearing in my library/saying `PURCHASE`</summary>
+<summary>Why are the games I try to add with SteamTools not appearing in my library or showing as `PURCHASE`?</summary>
 
 Your SteamTools version is outdated. [Download the installer](https://cdn.openlua.cloud/st-setup-latest.exe), run it, and click Next -> Install -> Finish.
 
-:::warning YOU ONLY NEED TO DO THE FOLLOWING IF YOU'VE DOWNGRADED YOUR STEAM INSTALLATION
+:::info IF YOU'VE DOWNGRADED YOUR STEAM INSTALLATION
 Open PowerShell as administrator and paste this:
 ```powershell
 irm -useb https://manifestor.cc/undo-steam-downgrade.ps1 | iex
@@ -111,6 +121,21 @@ It's designed to make it much harder and slower for pirates/crackers like us to 
 
 It works by encrypting and obfuscating parts of the game's code, acting as a protective layer around the game's existing Digital Rights Management (DRM) system (like Steam's or Origin's).
 </details>
+
+</details>
+
+<details>
+<summary>How do I stop Windows Defender from deleting my bypass/fix files?</summary>
+
+1. Open Windows Defender (Windows Security on Windows 11)
+2. Go to **Virus & Threat protection**
+3. Click **Manage settings** under **Virus & Threat protection settings**
+4. Scroll down to the bottom
+5. Click **Add or remove exclusions**
+6. Accept the UAC prompt
+7. Click **Add an exclusion**
+8. Select **Folder**
+9. Select your game folder
 
 </details>
 

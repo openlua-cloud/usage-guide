@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 description: ""
+pagination_next: null
 ---
 
 # Removing a game
