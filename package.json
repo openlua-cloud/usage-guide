@@ -1,7 +1,7 @@
 {
-  "name": "openlua.cloud-guide",
-  "version": "0.0.0",
-  "private": true,
+  "name": "openlua.cloud-usage-guide",
+  "version": "0",
+  "private": false,
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
