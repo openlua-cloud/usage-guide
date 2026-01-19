@@ -26,7 +26,7 @@ This fix uses official servers, with people who legitimately bought the game. Yo
 Make sure to confirm your email address.
 :::
 
-2. Launch Among Us and log into your itch.io account in-game.
+2. Launch the game using `Among Us.exe` and log into your itch.io account in-game.
 
 ### Congrats!
 If you've followed all of the steps correctly, you should now be able to play Among Us.
