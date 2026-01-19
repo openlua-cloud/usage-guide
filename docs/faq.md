@@ -12,7 +12,14 @@ description: ""
 <details>
 <summary>What's SteamTools?</summary>
 
-It's a tool developed by chinese hackers used for injecting Lua & Manifest files into Steam.
+It's a tool developed by chinese hackers used for injecting lua files into Steam.
+
+</details>
+
+<details>
+<summary>What are the lua files for?</summary>
+
+These files contain license data for the game and DLCs. The license data is needed for downloading the game files from Steam content servers.
 
 </details>
 

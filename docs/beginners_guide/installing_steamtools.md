@@ -4,6 +4,7 @@ description: ""
 ---
 
 # Installing SteamTools
+This page explains the process of installing SteamTools. It does the magic to make the game(s) appear in your library.
 
 # Windows
 [Download the installer](https://cdn.openlua.cloud/st-setup-latest.exe), run it, and click Next -> Install -> Finish.
