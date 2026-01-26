@@ -102,7 +102,10 @@ That means that the game contains extra security measures, and there's no bypass
 <details>
 <summary>Why are the games I try to add with SteamTools not appearing in my library or showing as `PURCHASE`?</summary>
 
-Your SteamTools version is outdated. [Download the installer](https://cdn.openlua.cloud/st-setup-latest.exe), run it, and click Next -> Install -> Finish.
+Your SteamTools version is outdated. To update SteamTools: 
+1. Open Steam, click on the Steam logo in the top left and click Exit.
+2. [Download the installer](https://cdn.openlua.cloud/st-setup-latest.exe), run it, and click Next -> Install -> Finish.
+3. Open SteamTools, right click it and select Launch Steam
 
 :::info IF YOU'VE DOWNGRADED YOUR STEAM INSTALLATION
 Open PowerShell as administrator and paste this:
