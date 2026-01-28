@@ -19,7 +19,7 @@ It's a tool developed by chinese hackers used for injecting lua files into Steam
 <details>
 <summary>What are the lua files for?</summary>
 
-These files contain license data for the game and DLCs. The license data is needed for downloading the game files from Steam content servers.
+These files contain depot keys for the game/app and DLCs. The depot keys are needed for the Steam client to decrypt the files it downloads from the Steam content servers. Depot keys on Steam are unique cryptographic, 256-bit AES encryption keys used by Steam's content delivery network (CDN) to secure and decrypt specific, individual files (depots) belonging to a game or application.
 
 </details>
 
@@ -61,7 +61,11 @@ That's completely normal.
 <details>
 <summary>Does the workshop work?</summary>
 
-Yes, the workshop works regularly just like with your purchased games. Please note that the workshop will only work for games marked with the `Workshop` badge on the website
+Yes, the workshop works just like with any of your purchased games/applications. 
+
+:::note
+The workshop only works for games marked with the `Workshop` badge on the website.
+:::
 
 </details>
 
@@ -103,14 +107,6 @@ That means that the game contains extra security measures, and there's no bypass
 <summary>Why are the games I try to add with SteamTools not appearing in my library or showing as `PURCHASE`?</summary>
 
 Your SteamTools version is outdated. To update SteamTools:
-
-:::info IF YOU'VE DOWNGRADED YOUR STEAM INSTALLATION
-Before proceeding, open PowerShell as administrator and run:
-```powershell
-irm -useb https://cdn.openlua.cloud/undo-steam-downgrade.ps1 | iex
-```
-Wait until the process finishes, then continue with the steps below.
-:::
 
 1. Open Steam, click on the Steam logo in the top left and click Exit.
 2. [Download the installer](https://cdn.openlua.cloud/st-setup-latest.exe), run it, and click Next -> Install -> Finish.
