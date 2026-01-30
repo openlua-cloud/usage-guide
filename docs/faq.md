@@ -104,13 +104,20 @@ That means that the game contains extra security measures, and there's no bypass
 ## Troubleshooting
 
 <details>
-<summary>Why are the games I try to add with SteamTools not appearing in my library or showing as `PURCHASE`?</summary>
+<summary>Why are the games I try to add with SteamTools not appearing in my library or showing up as PURCHASE instead of PLAY?</summary>
 
 Your SteamTools version is outdated. To update SteamTools:
 
 1. Open Steam, click on the Steam logo in the top left and click Exit.
 2. [Download the installer](https://cdn.openlua.cloud/st-setup-latest.exe), run it, and click Next -> Install -> Finish.
 3. Open SteamTools, right click it and select Launch Steam.
+
+</details>
+
+<details>
+<summary>Why is my download on Steam not starting or failing with "NO INTERNET CONNECTION" or "UNKNOWN ERROR"?</summary>
+
+Keep retrying until it works. If you've been retrying for a while and it's still not working, [check the current SteamTools server status](https://status.steamtools.info).
 
 </details>
 
