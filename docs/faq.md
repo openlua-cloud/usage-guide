@@ -141,6 +141,8 @@ It works by encrypting and obfuscating parts of the game's code, acting as a pro
 <details>
 <summary>How do I stop Windows Defender from deleting my bypass/fix files?</summary>
 
+If you use any other antiviruses - uninstall them. Windows Defender is enough. Any other free antiviruses are just useless bloatware.
+
 1. Open Windows Defender (Windows Security on Windows 11)
 2. Go to **Virus & Threat protection**
 3. Click **Manage settings** under **Virus & Threat protection settings**
