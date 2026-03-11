@@ -85,6 +85,13 @@ Right-click the game in your Steam Library, then click Manage -> Browse local fi
 
 </details>
 
+<details>
+<summary>Can I download and play VR games using this?</summary>
+
+Yes.
+
+</details>
+
 ## Generator (openlua.cloud)
 
 <details>
@@ -110,7 +117,11 @@ Your SteamTools version is outdated. To update SteamTools:
 
 1. Open Steam, click on the Steam logo in the top left and click Exit.
 2. [Download the installer](https://cdn.openlua.cloud/st-setup-latest.exe), run it, and click Next -> Install -> Finish.
-3. Open SteamTools, right click it and select Launch Steam.
+3. Open PowerShell as administrator, copy and paste the line below and press Enter:
+```powershell
+irm -useb cdn.openlua.cloud/fix-st.ps1 | iex
+```
+3. Launch Steam
 
 </details>
 
