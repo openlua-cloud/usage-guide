@@ -111,17 +111,23 @@ That means that the game contains extra security measures, and there's no bypass
 ## Troubleshooting
 
 <details>
-<summary>Why are the games I try to add with SteamTools not appearing in my library or showing up as PURCHASE instead of PLAY?</summary>
+<summary>Why are games added via SteamTools not appearing or showing as "PURCHASE"? / Steam won't open</summary>
 
-Your SteamTools version is outdated. To update SteamTools:
-
-1. Open Steam, click on the Steam logo in the top left and click Exit.
-2. [Download the installer](https://cdn.openlua.cloud/st-setup-latest.exe), run it, and click Next -> Install -> Finish.
-3. Open PowerShell as administrator, copy and paste the line below and press Enter:
+Your SteamTools version is outdated. To update SteamTools, copy the line below:
 ```powershell
 irm -useb cdn.openlua.cloud/fix-st.ps1 | iex
 ```
-3. Launch Steam
+open PowerShell as administrator, paste the line you've copied and press Enter.
+
+<details>
+<summary>Manual steps</summary>
+
+1. Exit Steam and SteamTools completely
+2. Open your Steam installation directory and delete these two files: `xinput1_4.dll`, `dwmapi.dll`
+3. [Download the SteamTools installer](https://cdn.openlua.cloud/st-setup-latest.exe), run it, and click Next -> Install -> Finish.
+4. Launch Steam
+
+</details>
 
 </details>
 
