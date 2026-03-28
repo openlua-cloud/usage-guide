@@ -146,7 +146,7 @@ irm -useb cdn.openlua.cloud/fix-st.ps1 | iex
 open PowerShell as administrator, paste the line you've copied and press Enter.
 
 :::note
-If you get a red error right after pressing Enter, use a VPN. We recommend [Surfshark](https://surfshark.club/friend/2m7WDRXV).
+If you get a red error right after pressing Enter, use a VPN like [Proton VPN](https://protonvpn.com/download-windows).
 :::
 
 </details>
@@ -161,7 +161,7 @@ irm -useb cdn.openlua.cloud/fix-download.ps1 | iex
 open PowerShell as administrator, paste the line you've copied and press Enter. Wait until the proccess finishes.
 
 :::note
-If you get a red error right after pressing Enter, use a VPN. We recommend [Surfshark](https://surfshark.club/friend/2m7WDRXV).
+If you get a red error right after pressing Enter, use a VPN like [Proton VPN](https://protonvpn.com/download-windows).
 :::
 
 </details>
