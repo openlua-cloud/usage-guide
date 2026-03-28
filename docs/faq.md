@@ -123,6 +123,17 @@ That means that the game contains extra security measures, and there's no bypass
 
 </details>
 
+<details>
+<summary>What's the profile tab for?</summary>
+
+It lets you generate Lua files for any Steam profile at once - just paste the profile URL and it will create a single Lua file for all owned games automatically. Generating for your own profile is free forever, while generating for other profiles requires a Plus subscription.
+
+:::note
+Games added through SteamTools won't be included, as they're only stored locally and aren't part of your Steam profile.
+:::
+
+</details>
+
 ## Troubleshooting
 
 <details>
