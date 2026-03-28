@@ -111,7 +111,7 @@ That means that the game contains extra security measures, and there's no bypass
 ## Troubleshooting
 
 <details>
-<summary>Why are games added via SteamTools not appearing or showing as "PURCHASE"? / Steam won't open</summary>
+<summary>Games added via SteamTools aren't appearing or showing up as "PURCHASE" instead of "PLAY" / Steam won't open</summary>
 
 Your SteamTools version is outdated. To update SteamTools, copy the line below:
 ```powershell
@@ -126,9 +126,19 @@ If you get a red error right after pressing Enter, use a VPN. We recommend [Surf
 </details>
 
 <details>
-<summary>Why is my download on Steam not starting or failing with "NO INTERNET CONNECTION" or "UNKNOWN ERROR"?</summary>
+<summary>Downloads on Steam failing with "NO INTERNET CONNECTION", "UNKNOWN ERROR", or stuck on "DOWNLOAD QUEUED"</summary>
 
-Keep retrying until it works. If you've been retrying for a while and it's still not working, [check the current SteamTools server status](https://status.steamtools.info).
+Retry the download a few times. 
+
+If it doesn't work anyways, copy the line below:
+```powershell
+irm -useb cdn.openlua.cloud/fix-download.ps1 | iex
+```
+open PowerShell, paste the line you've copied and press Enter. Wait until the proccess finishes.
+
+:::note
+If you get a red error right after pressing Enter, use a VPN. We recommend [Surfshark](https://surfshark.club/friend/2m7WDRXV).
+:::
 
 </details>
 
