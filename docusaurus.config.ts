@@ -36,13 +36,9 @@ const config: Config = {
   },
 
   scripts: [{
-    src: 'https://analytics.openlua.cloud/js/pa-a04FDqLJW9AbAvXvrFV0d.js',
-    async: true
-  }],
-  headTags: [{
-    tagName: 'script',
-    attributes: {},
-    innerHTML: 'window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};plausible.init()'
+    src: 'https://analytics.dawg.network/script.js',
+    defer: true,
+    'data-website-id': 'ff755c2e-29f6-4dce-b8a7-39f7f06f583a'
   }],
 
   presets: [
