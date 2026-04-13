@@ -12,7 +12,7 @@ description: ""
 3. Click Download and complete the ad
 4. After completing the ad, make sure to read any popups that might've appeared.
 
-:::tip Want an ad-free experience?
+:::tip[Want an ad-free experience?]
 Subscribe to **openlua.cloud Plus** for only **5€/month** to remove all ads!
 
 **To subscribe or view all perks:**
@@ -45,6 +45,6 @@ After that, drag the lua file you've downloaded onto the floating Steam icon. Th
 ### Congrats!
 If you've followed all of the steps correctly, you should now have the game in your Steam Library, available to download for free.
 
-:::note Having issues?
+:::note[Having issues?]
 Check out the [Troubleshooting section](/faq#troubleshooting)
 :::

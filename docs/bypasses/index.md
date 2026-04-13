@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 # Bypasses/Fixes
 
-:::info BYPASSES ARE NOW INTEGRATED INTO THE WEBSITE
+:::info[BYPASSES ARE NOW INTEGRATED INTO THE WEBSITE]
 When you download a game that requires a bypass, you'll automatically be prompted to download it. This section only contains bypasses that require special installation steps.
 :::
 
